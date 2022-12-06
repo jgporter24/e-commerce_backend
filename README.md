@@ -4,6 +4,8 @@
 ## Description
 E-Commerce Backend is a REST API for an internet retail websit. Built on an express.js server that uses sequelize to interact with MySQL. This E-Commerce has the API routes that point to each of the standard CRUD operations for each data group. 
 
+
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
